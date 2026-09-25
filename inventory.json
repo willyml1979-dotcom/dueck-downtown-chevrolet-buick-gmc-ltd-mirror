@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-24T15:41:35",
-  "vehicle_count": 27,
+  "generated_at": "2026-09-25T03:10:05",
+  "vehicle_count": 26,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -187,6 +187,18 @@
       "condition": "used"
     },
     {
+      "name": "New2026BuickEnclaveSport Touring",
+      "vin": "5GAEVBKS0TJ361519",
+      "stock": "26EC151",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/a5dd2dccbcbd.html",
+      "source_url": "https://www.dueckdowntown.com/inventory/2026-buick-enclave-sport-touring-mkfMECZOQS2sICErVRnWugvdp",
+      "dealer_url": "https://www.dueckdowntown.com/inventory/2026-buick-enclave-sport-touring-mkfMECZOQS2sICErVRnWugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T03:07:50",
+      "odometer_km": 24000,
+      "condition": "new"
+    },
+    {
       "name": "New2026ChevroletCorvette3LZ",
       "vin": "1G1YF3D33T5602690",
       "stock": "26CV269",
@@ -194,7 +206,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/6539c3dac841.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-corvette-3lz-pFnpjrGQQlG3XlXUORVtFgvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-corvette-3lz-pFnpjrGQQlG3XlXUORVtFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:15:12",
+      "last_verified": "2026-09-25T03:08:03",
       "odometer_km": 24000,
       "condition": "new"
     },
@@ -206,7 +218,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/0746cfce412a.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-silverado-1500-high-country-1TfNXbjDTNuf9fmB53nBFQvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-silverado-1500-high-country-1TfNXbjDTNuf9fmB53nBFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:15:23",
+      "last_verified": "2026-09-25T03:08:15",
       "odometer_km": 24000,
       "condition": "new"
     },
@@ -242,8 +254,8 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/fbd978f73953.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-gmc-acadia-elevation-slbs0PcoT2q3XsNQ1IBTigvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-acadia-elevation-slbs0PcoT2q3XsNQ1IBTigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:15:59",
-      "odometer_km": 4265,
+      "last_verified": "2026-09-25T03:08:48",
+      "odometer_km": 4650,
       "condition": "new"
     },
     {
@@ -266,7 +278,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/ac336523e2be.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-WOTFsEmbRyKWQ4STLJGEzAvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-WOTFsEmbRyKWQ4STLJGEzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:16:22",
+      "last_verified": "2026-09-25T03:09:12",
       "odometer_km": 24000,
       "condition": "new"
     },
@@ -278,7 +290,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/9e39d79a95c8.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-xTWMGTV3QcyE7X5tndXS0wvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-xTWMGTV3QcyE7X5tndXS0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:16:36",
+      "last_verified": "2026-09-25T03:09:24",
       "odometer_km": 24000,
       "condition": "new"
     },
@@ -290,7 +302,7 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/6d668f77a727.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-slt-K2VYBqVDTB2Dq2NVKLQQowvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-slt-K2VYBqVDTB2Dq2NVKLQQowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:16:49",
+      "last_verified": "2026-09-25T03:09:36",
       "odometer_km": 24000,
       "condition": "new"
     },
@@ -314,28 +326,8 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/c48da1e90c56.html",
       "source_url": "https://www.dueckdowntown.com/inventory/2027-gmc-terrain-awd-denali-liWUHxJRS1yhobZAh0aahAvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2027-gmc-terrain-awd-denali-liWUHxJRS1yhobZAh0aahAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:17:12",
+      "last_verified": "2026-09-25T03:10:01",
       "odometer_km": 24000,
-      "condition": "new"
-    },
-    {
-      "name": "61 Vehicles For Sale in Vancouver, BC",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/1a4c1f2563bc.html",
-      "source_url": "https://www.dueckdowntown.com/inventory/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=30000&paymentOption=CASH",
-      "dealer_url": "https://www.dueckdowntown.com/inventory/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=30000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:17:32",
-      "price": 20990.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "21 Vehicles For Sale in Vancouver, BC",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/84f36155ebfe.html",
-      "source_url": "https://www.dueckdowntown.com/inventory/?paymentRange%5Bgte%5D=10000&paymentRange%5Blte%5D=20000&paymentOption=CASH",
-      "dealer_url": "https://www.dueckdowntown.com/inventory/?paymentRange%5Bgte%5D=10000&paymentRange%5Blte%5D=20000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T02:17:44",
-      "price": 15498.0,
-      "price_currency": "CAD",
       "condition": "new"
     }
   ]
