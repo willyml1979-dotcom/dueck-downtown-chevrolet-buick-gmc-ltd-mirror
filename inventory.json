@@ -1,6 +1,6 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-25T03:10:05",
+  "generated_at": "2026-10-08T14:36:07",
   "vehicle_count": 26,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -17,7 +17,9 @@
       "price": 31995.0,
       "price_currency": "CAD",
       "odometer_km": 23990,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023ChevroletCamaroZL1",
@@ -31,7 +33,9 @@
       "price": 105997.0,
       "price_currency": "CAD",
       "odometer_km": 15549,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024ChevroletEquinox EVRS",
@@ -45,7 +49,9 @@
       "price": 36492.0,
       "price_currency": "CAD",
       "odometer_km": 18830,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletBlazerRS",
@@ -59,7 +65,9 @@
       "price": 40993.0,
       "price_currency": "CAD",
       "odometer_km": 44418,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCAcadiaAT4",
@@ -73,7 +81,9 @@
       "price": 56480.0,
       "price_currency": "CAD",
       "odometer_km": 29497,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCSierra 1500AT4X",
@@ -87,7 +97,9 @@
       "price": 79998.0,
       "price_currency": "CAD",
       "odometer_km": 23232,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCSierra 1500Denali Ultimate",
@@ -101,7 +113,9 @@
       "price": 86394.0,
       "price_currency": "CAD",
       "odometer_km": 14100,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCSierra 3500HDDenali",
@@ -115,7 +129,9 @@
       "price": 96995.0,
       "price_currency": "CAD",
       "odometer_km": 28611,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025HondaCR-V HybridTouring",
@@ -129,7 +145,9 @@
       "price": 42994.0,
       "price_currency": "CAD",
       "odometer_km": 45235,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026GMCYukonDenali",
@@ -143,7 +161,9 @@
       "price": 111997.0,
       "price_currency": "CAD",
       "odometer_km": 32104,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2027ChevroletCorvette3LT",
@@ -154,7 +174,9 @@
       "source_url": "https://www.dueckdowntown.com/inventory/2027-chevrolet-corvette-3lt-KxFbbJTrTIenxbd3TJP5cAvdp",
       "dealer_url": "https://www.dueckdowntown.com/inventory/2027-chevrolet-corvette-3lt-KxFbbJTrTIenxbd3TJP5cAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:13:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "176 Used Vehicles for sale in Vancouver, BC",
@@ -164,7 +186,9 @@
       "last_verified": "2026-09-24T02:13:32",
       "price": 79998.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "61 Vehicles For Sale in Vancouver, BC",
@@ -174,7 +198,9 @@
       "last_verified": "2026-09-24T02:13:41",
       "price": 20990.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "21 Vehicles For Sale in Vancouver, BC",
@@ -184,7 +210,9 @@
       "last_verified": "2026-09-24T02:13:51",
       "price": 15498.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnclaveSport Touring",
@@ -196,7 +224,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-buick-enclave-sport-touring-mkfMECZOQS2sICErVRnWugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:07:50",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletCorvette3LZ",
@@ -208,7 +238,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-corvette-3lz-pFnpjrGQQlG3XlXUORVtFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:08:03",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSilverado 1500High Country",
@@ -220,7 +252,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-silverado-1500-high-country-1TfNXbjDTNuf9fmB53nBFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:08:15",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSuburbanPremier",
@@ -232,7 +266,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-chevrolet-suburban-premier-ErjMU4G9TPapMVU3UegVGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:15:36",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCAcadiaDenali Ultimate",
@@ -244,7 +280,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-acadia-denali-ultimate-GKBcHDuATle4ldRv7Re1FQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:15:47",
       "odometer_km": 4000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCAcadiaElevation",
@@ -256,7 +294,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-acadia-elevation-slbs0PcoT2q3XsNQ1IBTigvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:08:48",
       "odometer_km": 4650,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCHUMMER EV SUV3X",
@@ -268,7 +308,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-hummer-ev-suv-3x-FpwhDX85TxSmepgo8Xrwswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:16:10",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Denali",
@@ -280,7 +322,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-WOTFsEmbRyKWQ4STLJGEzAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:09:12",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Denali",
@@ -292,7 +336,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-denali-xTWMGTV3QcyE7X5tndXS0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:09:24",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500SLT",
@@ -304,7 +350,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-sierra-1500-slt-K2VYBqVDTB2Dq2NVKLQQowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:09:36",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukonDenali Ultimate",
@@ -316,7 +364,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2026-gmc-yukon-denali-ultimate-n0cWULHDQ6yQ9uf0SudzLAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T02:17:01",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Denali",
@@ -328,7 +378,9 @@
       "dealer_url": "https://www.dueckdowntown.com/inventory/2027-gmc-terrain-awd-denali-liWUHxJRS1yhobZAh0aahAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T03:10:01",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
