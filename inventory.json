@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-25T16:53:08",
-  "vehicle_count": 35,
+  "generated_at": "2026-10-26T05:46:39",
+  "vehicle_count": 36,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -239,9 +239,15 @@
       "condition": "new"
     },
     {
-      "name": "New2027GMCTerrainAWD Denali",
-      "vin": "3GKALZEG5VL121417",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/c48da1e90c56.html",
+      "name": "New2027ChevroletTraverseRS",
+      "vin": "1GNEVLKS4VJ165033",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/19c2c8719d4d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCAcadiaElevation",
+      "vin": "1GKEMNKS9VJ165461",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/20a360986879.html",
       "condition": "new"
     }
   ]
