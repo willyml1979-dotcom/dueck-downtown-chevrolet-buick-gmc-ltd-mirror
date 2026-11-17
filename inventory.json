@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-26T05:46:39",
-  "vehicle_count": 36,
+  "generated_at": "2026-11-16T18:18:21",
+  "vehicle_count": 40,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,17 +14,17 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2021ChevroletCorvette3LT",
-      "vin": "1G1YC2D44M5121893",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/24c490972e29.html",
+      "name": "Used2019NissanTitan XDS",
+      "vin": "1N6BA1F4XKN512809",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/3e359b1b4f89.html",
       "condition": "used",
-      "price": 81996.0,
+      "price": 31099.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2021TeslaModel 3Standard Range Plus",
-      "vin": "5YJ3E1EA0MF922944",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/5ca89ca21218.html",
+      "name": "Used2022JeepGrand CherokeeSummit Reserve",
+      "vin": "1C4RJHET4N8508955",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/3702a4c3e227.html",
       "condition": "used"
     },
     {
@@ -32,31 +32,43 @@
       "vin": "1G1FK3D66P0154848",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/5a6c873a2013.html",
       "condition": "used",
-      "price": 104995.0,
+      "price": 104993.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2023HyundaiPalisadeUrban",
-      "vin": "KM8R3DGE3PU620086",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/acb5cc69d300.html",
+      "name": "Used2023ChevroletCamaroZL1",
+      "vin": "1G1FK3D66P0154848",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/356f22131d68.html",
       "condition": "used",
-      "price": 34495.0,
+      "price": 104993.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024ChevroletEquinox EVRS",
-      "vin": "3GN7DSRPXRS292686",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/af5931d16135.html",
-      "condition": "used",
-      "price": 35990.0,
-      "price_currency": "CAD"
+      "name": "Used2023ChevroletCorvette2LT",
+      "vin": "1G1YB3D49P5132935",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/06ffa79d3f5d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023VolvoXC60Ultimate Dark Theme",
+      "vin": "LYV062RX0PB223825",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/1f3b426f3d3c.html",
+      "condition": "used"
     },
     {
       "name": "Used2024GMCYukon XLDenali",
       "vin": "1GKS2JKT5RR292211",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/fd7237645ead.html",
       "condition": "used",
-      "price": 87896.0,
+      "price": 83993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024GMCYukon XLDenali",
+      "vin": "1GKS2JKT5RR292211",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/2097a520b5db.html",
+      "condition": "used",
+      "price": 83993.0,
       "price_currency": "CAD"
     },
     {
@@ -64,23 +76,15 @@
       "vin": "3GNKBKRS0SS105269",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/a662950ad2db.html",
       "condition": "used",
-      "price": 41992.0,
+      "price": 39890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2025ChevroletEquinoxAWD RS",
-      "vin": "3GNAXTEG3SL242530",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/ebacaeb5c86f.html",
+      "name": "Used2025ChevroletBlazerRS",
+      "vin": "3GNKBKRS0SS105269",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/225b9faad343.html",
       "condition": "used",
-      "price": 33398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2025GMCAcadiaAT4",
-      "vin": "1GKENPRS2SJ212937",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/e9dd0d216129.html",
-      "condition": "used",
-      "price": 57290.0,
+      "price": 39890.0,
       "price_currency": "CAD"
     },
     {
@@ -88,7 +92,15 @@
       "vin": "1GTUUHE84SZ277980",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/ef6021a14250.html",
       "condition": "used",
-      "price": 83991.0,
+      "price": 81699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025GMCSierra 1500Denali Ultimate",
+      "vin": "1GTUUHE84SZ277980",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/7574a3f3918a.html",
+      "condition": "used",
+      "price": 81699.0,
       "price_currency": "CAD"
     },
     {
@@ -96,7 +108,15 @@
       "vin": "1GT4UWEY6SF148161",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/ffe8782e1fa7.html",
       "condition": "used",
-      "price": 95293.0,
+      "price": 90990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025GMCSierra 3500HDDenali",
+      "vin": "1GT4UWEY6SF148161",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/8fef9ba5b19c.html",
+      "condition": "used",
+      "price": 90990.0,
       "price_currency": "CAD"
     },
     {
@@ -104,7 +124,15 @@
       "vin": "1GKS2DK80TR117563",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/07353c79d53e.html",
       "condition": "used",
-      "price": 110994.0,
+      "price": 108995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2026GMCYukonDenali",
+      "vin": "1GKS2DK80TR117563",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/73bf11aef435.html",
+      "condition": "used",
+      "price": 108995.0,
       "price_currency": "CAD"
     },
     {
@@ -112,20 +140,22 @@
       "vin": "1V2FN2CA9TC547166",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/a0539dfb4109.html",
       "condition": "used",
-      "price": 54999.0,
+      "price": 54498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2027ChevroletCorvette3LT",
-      "vin": "1G1YV2D58V5300622",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/d90109a60171.html",
-      "condition": "used"
+      "name": "Used2026VolkswagenAtlasExecline",
+      "vin": "1V2FN2CA9TC547166",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/260be006eeec.html",
+      "condition": "used",
+      "price": 54498.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "172 Used Vehicles for sale in Vancouver, BC",
+      "name": "166 Used Vehicles for sale in Vancouver, BC",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/08734ffd3812.html",
       "condition": "used",
-      "price": 87896.0,
+      "price": 83993.0,
       "price_currency": "CAD"
     },
     {
