@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-16T18:18:21",
-  "vehicle_count": 40,
+  "generated_at": "2026-11-17T02:38:49",
+  "vehicle_count": 48,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -179,21 +179,27 @@
       "condition": "new"
     },
     {
+      "name": "New2026BuickEnvisionSport Touring",
+      "vin": "LRBFZPR4XTD091420",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/2d88736e1ba0.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026ChevroletCorvette3LZ",
       "vin": "1G1YF3D33T5602690",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/6539c3dac841.html",
       "condition": "new"
     },
     {
-      "name": "New2026ChevroletSilverado 1500High Country",
-      "vin": "3GCUKJED4TG453129",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/0746cfce412a.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026ChevroletSuburbanPremier",
       "vin": "1GNS6FKL9TR375247",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/c9feb41c5bfd.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026ChevroletTahoeHigh Country",
+      "vin": "1GNS6TKLXTR258565",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/ce0d315b2b1f.html",
       "condition": "new"
     },
     {
@@ -222,8 +228,20 @@
     },
     {
       "name": "New2026GMCSierra 1500Denali",
+      "vin": "1GTUUGE85TZ392714",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/efc97f534cef.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 1500Denali",
       "vin": "3GTUUGEL0TG147842",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/9e39d79a95c8.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 1500Denali",
+      "vin": "3GTUUGEL0TG147842",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/6475bcb7c920.html",
       "condition": "new"
     },
     {
@@ -239,15 +257,39 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCYukonDenali Ultimate",
-      "vin": "1GKS2EKL7TR429051",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/19b8242b29e5.html",
+      "name": "New2026GMCYukonDenali",
+      "vin": "1GKS2DKL2TR468561",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/314ec900b91b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027BuickEnclaveAvenir",
+      "vin": "5GAEVCKS8VJ121546",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/2a54b8b505a1.html",
       "condition": "new"
     },
     {
       "name": "New2027BuickEnclaveAvenir",
       "vin": "5GAEVCKS6VJ130875",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/3735199ece5e.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027BuickEnclaveAvenir",
+      "vin": "5GAEVCKS6VJ130875",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/8017e5b23322.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027BuickEnclaveSport Touring",
+      "vin": "5GAEVBKS8VJ125607",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/94f088a3898b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletEquinoxAWD ACTIV",
+      "vin": "3GNAXSEG3VL196065",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/1df08659d075.html",
       "condition": "new"
     },
     {
@@ -269,15 +311,21 @@
       "condition": "new"
     },
     {
-      "name": "New2027ChevroletTraverseRS",
-      "vin": "1GNEVLKS4VJ165033",
-      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/19c2c8719d4d.html",
+      "name": "New2027ChevroletEquinoxAWD RS",
+      "vin": "3GNAXTEG4VL206981",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/aeba182c72e7.html",
       "condition": "new"
     },
     {
       "name": "New2027GMCAcadiaElevation",
       "vin": "1GKEMNKS9VJ165461",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/20a360986879.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCAcadiaElevation",
+      "vin": "1GKEMNKS9VJ165461",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/new/3b38293c2570.html",
       "condition": "new"
     }
   ]
