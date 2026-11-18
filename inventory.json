@@ -1,7 +1,7 @@
 {
   "dealership": "Dueck Downtown Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-17T02:38:49",
-  "vehicle_count": 48,
+  "generated_at": "2026-11-17T18:27:47",
+  "vehicle_count": 49,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -10,7 +10,7 @@
       "vin": "1N6BA1F4XKN512809",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/c0b317297ffb.html",
       "condition": "used",
-      "price": 31494.0,
+      "price": 31099.0,
       "price_currency": "CAD"
     },
     {
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/3e359b1b4f89.html",
       "condition": "used",
       "price": 31099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2020ChevroletEquinoxLT",
+      "vin": "2GNAXVEX1L6206501",
+      "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/dda0e1b7c941.html",
+      "condition": "used",
+      "price": 21499.0,
       "price_currency": "CAD"
     },
     {
@@ -159,17 +167,17 @@
       "price_currency": "CAD"
     },
     {
-      "name": "56 Vehicles For Sale in Vancouver, BC",
+      "name": "67 Vehicles For Sale in Vancouver, BC",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/1a4c1f2563bc.html",
       "condition": "used",
-      "price": 20497.0,
+      "price": 21499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "17 Vehicles For Sale in Vancouver, BC",
+      "name": "26 Vehicles For Sale in Vancouver, BC",
       "url": "https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/84f36155ebfe.html",
       "condition": "used",
-      "price": 18998.0,
+      "price": 18890.0,
       "price_currency": "CAD"
     },
     {

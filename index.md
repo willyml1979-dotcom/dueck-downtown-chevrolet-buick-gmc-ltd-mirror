@@ -1,6 +1,6 @@
 # Dueck Downtown Chevrolet Buick GMC Ltd.
 
- dealership in Vancouver. AI-readable inventory mirror, about 48 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 49 vehicles.
 
 - Official website: https://www.dueckdowntown.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/dueck-downtown-chevrolet-buick-gmc-ltd-mirror/used/
